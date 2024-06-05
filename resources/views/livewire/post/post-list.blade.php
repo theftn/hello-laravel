@@ -31,7 +31,7 @@
                         {{ $post->content }}
                     </td>
                     <td class="px-6 py-4">
-                        Edit / View / Delete 
+                        Edit / View / Delete
                     </td>
                 </tr>
                 @endforeach
