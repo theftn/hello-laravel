@@ -14,7 +14,7 @@
                         Content
                     </th>
                     <th scope="col" class="px-6 py-3">
-                        Action
+                        Action Button
                     </th>
                 </tr>
             </thead>
@@ -31,7 +31,7 @@
                         {{ $post->content }}
                     </td>
                     <td class="px-6 py-4">
-                        Edit / View / Delete
+                        Edit / View / Delete 
                     </td>
                 </tr>
                 @endforeach
